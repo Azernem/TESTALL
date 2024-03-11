@@ -1,0 +1,2 @@
+C:\Users\Первый\Downloads\Bor_Trie\Bor_Trie\obj\Debug\Bor_Trie.csproj.AssemblyReference.cache
+C:\Users\Первый\Downloads\Bor_Trie\Bor_Trie\obj\Debug\Bor_Trie.csproj.CoreCompileInputs.cache
